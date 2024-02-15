@@ -1,4 +1,2 @@
 # Actor-Critic-Methods
-Testing with vanilla Actor-Critic, DDPG, and TD3.
-
-
+Re-implementations of vanilla Actor-Critic, DDPG, and TD3. Solely for learning purposes.
